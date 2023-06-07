@@ -1,0 +1,36 @@
+.sliderbox h1, .services-box h2, .services-box h3{
+  font-family: 'Montserrat', sans-serif !important;
+}
+.services-box h2, .sliderbox .block-editor-rich-text__editable.wp-block-button__link{
+  font-family: 'Quicksand', sans-serif !important;
+}
+.sliderbox h1{
+  font-weight: 900 !important;
+}
+.sliderbox p, .services-box p{
+  font-family: 'Open Sans', sans-serif !important;
+}
+.sliderbox .block-editor-rich-text__editable.wp-block-button__link{
+  font-size: 14px !important;
+}
+.sliderbox .block-editor-rich-text__editable.wp-block-button__link:hover {
+  background: #2b3546 !important;
+}
+/*services section*/
+.services-box h2{
+  color: #2b3546 !important;
+}
+.service-img:hover h3{
+  background-color: rgba(100, 197, 170, 0.9) !important;
+  color: #fff !important;
+}
+.services-box h3{
+  position: absolute;
+  background: #ffffffab;
+  padding: 15px 5px !important;
+  margin: 15px !important;
+  margin-top: -100px !important;
+}
+.services-box p.block-editor-rich-text__editable.block-editor-block-list__block{
+  font-size: 14px !important;
+}

@@ -1,0 +1,40 @@
+.banner-section {
+    height: auto;
+    width: auto
+}
+.banner-section img, .service-section img {
+    width : 100%;
+}
+.banner-section-btn {
+    position: relative;
+}
+.banner-section-btn:before {
+    content: "\f105";
+    background: #abda37;
+    color: #000;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    padding: 11px 15px 13px;
+    font-size: 20px;
+    line-height: 1;
+    position: absolute;
+    left: 100%;
+} 
+.banner-section-btn:hover .wp-block-button__link {
+    background-color: #abda37 !important;
+}
+.banner-section-btn:hover:before {
+    background-color: #179cd7 ;
+}
+.service-section .work-service-section 
+.work-section .wp-block-heading  h5 {
+    display: inline-block;
+    font-weight: 400;
+}
+.work-icon-content .work-box:hover {
+    background-color: #abda37 !important;
+}
+.service-section .wp-block h2 {
+    margin-top: 0px !important;
+    margin-bottom: 5px !important;
+}
