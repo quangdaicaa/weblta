@@ -97,3 +97,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+define( 'WP_HOME', 'https://lta.quang.vip' );
+define( 'WP_SITEURL', 'https://lta.quang.vip' );
+define('FORCE_SSL_ADMIN', true);
