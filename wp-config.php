@@ -29,7 +29,7 @@ define( 'DB_USER', 'weblta' );
 define( 'DB_PASSWORD', 'Ac195mNb');
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'rm-3nso8j457ms4n5xn8.mysql.rds.aliyuncs.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
